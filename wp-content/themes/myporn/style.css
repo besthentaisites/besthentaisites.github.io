@@ -5,7 +5,7 @@ body {
 	background: url(images/censored.png);
     background-size: 928px 3340px;
     background-repeat: no-repeat;
-	background-position: 73% -620px; 
+	background-position: calc(50% + 81px) -620px;
 }
 .header {
 	max-width:955px;
