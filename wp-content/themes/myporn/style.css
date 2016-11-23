@@ -7,6 +7,9 @@ body {
     background-repeat: no-repeat;
 	background-position: calc(50% + 81px) -620px;
 }
+#disqus_thread {
+    background: white;
+}
 .header {
 	max-width:955px;
 	min-width:955px;
